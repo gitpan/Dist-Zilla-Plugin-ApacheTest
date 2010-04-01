@@ -1,0 +1,12 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+SIGNATURE
+dist.ini
+lib/Dist/Zilla/Plugin/ApacheTest.pm
+t/compile.t
+t/release-pod-syntax.t
+t/signature.t

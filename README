@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Dist-Zilla-Plugin-ApacheTest,
+version 0.01:
+
+  build a Makefile.PL that uses ExtUtils::MakeMaker with Apache::Test
+
+This software is copyright (c) 2010 by Michael Schout.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
